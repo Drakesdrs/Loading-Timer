@@ -1,5 +1,5 @@
 plugins {
-	id 'fabric-loom' version '0.5-SNAPSHOT'
+id 'forgified-fabric-loom' version '0.6.70'
 }
 
 sourceCompatibility = JavaVersion.VERSION_1_8
